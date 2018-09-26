@@ -1,1 +1,1 @@
-FROM docker/hello-world:latest
+FROM hello-world:latest
