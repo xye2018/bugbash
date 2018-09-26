@@ -1,1 +1,1 @@
-FROM jpz13/lithium:latest
+FROM docker/hello-world:latest
